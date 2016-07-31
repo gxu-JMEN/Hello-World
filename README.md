@@ -2,5 +2,4 @@
 first project
 
 hi, jmen.
-
-hubot here, i like node.js.
+modify from here.hehe.
